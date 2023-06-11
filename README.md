@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,python&theme=light)](https://atyscode.ir)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,python,django&theme=light&perline=6)](https://atyscode.ir)
 <!--
 **hharddy/hharddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
