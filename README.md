@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 Personal website ... <a href="https://flutter-learn.ir">atyscode.ir</a>
+- 🔭 Personal website ... <a href="https://atyscode.ir/cv">[English]</a>
+- 🔭 Personal website ... <a href="https://atyscode.ir">Persian</a>
 
 ### 🧠 Languages and Tools:
 
