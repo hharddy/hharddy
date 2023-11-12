@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 Personal website: <a href="https://atyscode.ir/cv">[English]</a> . . . <a href="https://atyscode.ir">Persian</a>
+- 🔭 Personal website: <a href="https://Hesam.cc/cv">[English]</a> . . . <a href="https://Hesam.cc">Persian</a>
 
 ### 🧠 Languages and Tools:
 
